@@ -1,0 +1,2 @@
+provides: E0
+requires: B(5-8), D(5-8)
