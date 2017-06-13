@@ -28,7 +28,7 @@ public class ETest {
         
         Capability cap = item.getCapability();
         Assert.assertEquals("E", cap.getName());
-        Assert.assertTrue(cap.getValue() > 0);
+        Assert.assertEquals(0, cap.getValue());
         
         List<Requirement> reqs = item.getRequirements();
         Assert.assertEquals(2, reqs.size());
