@@ -11,7 +11,7 @@ public class E extends Item {
 
     @Override
     public Capability getCapability() {
-        return new Capability("E", 0);
+        return new Capability("E", 1);
     }
 
     @Override
