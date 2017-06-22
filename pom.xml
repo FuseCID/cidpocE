@@ -18,8 +18,8 @@
   </scm>
     
     <properties>
-        <version.cidpoc.b>1.0.0</version.cidpoc.b>
-        <version.cidpoc.d>1.0.0</version.cidpoc.d>
+        <version.cidpoc.b>1.0.1-SNAPSHOT</version.cidpoc.b>
+        <version.cidpoc.d>1.0.1-SNAPSHOT</version.cidpoc.d>
     </properties>
 
     <dependencies>
